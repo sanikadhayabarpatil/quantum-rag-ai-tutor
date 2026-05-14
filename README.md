@@ -154,6 +154,5 @@ NEXT_PUBLIC_BACKEND_URL=
 
 ## 👤 Author
 
-**Kunal Tibe**  
-AI & Data Engineer  
-[LinkedIn](https://www.linkedin.com/in/kunaltibe) · [GitHub](https://github.com/kunaltibe)
+**Sanika Dhayabar Patil and Kunal Tibe**  
+Software and AI Engineer 
