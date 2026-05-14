@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+quantum_rag-venv/
+venv/
+.venv/
+
+# Mac system files
+.DS_Store
+
+# Temp files created during PDF processing
+temp_*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Poetry
+poetry.lock
+
+# IDE
+.vscode/
+.idea/
